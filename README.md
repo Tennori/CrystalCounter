@@ -1,4 +1,4 @@
-# ■概要
+<img width="832" alt="Screen Shot 2024-04-09 at 23 16 07" src="https://github.com/Tennori/CrystalCounter/assets/166518378/7e568abc-0a91-410f-a4c0-6fa8be3b40c9"># ■概要
 クリコンの配信をするときに  
 カウントをするためだけのHTMLガジェットです。  
 すべてローカルで完結します（外部通信しません）  
@@ -22,7 +22,10 @@ index.htmlを選択してください。
 OBSの仕様上、  
 【必ず「対話」ボタンを押して出てくるウィンドウ内で】  
 プラスマイナスの操作してください。  
-※画像参照  
+![ブラウザ＞対話（操作）](https://github.com/Tennori/CrystalCounter/assets/166518378/f2df922f-429c-48d3-aa82-922778f4620f)
+![ブラウザとの対話](https://github.com/Tennori/CrystalCounter/assets/166518378/b1a9844e-8ef4-47f4-900f-8a550bf84f24)
+
+
 ーーーー  
 
 ## ■各バージョンの説明
@@ -54,4 +57,13 @@ Xの@tenoritiger_fezまで連絡ください。
 
 *DLし終わったあとは戻してね。*
 
-*おそらく昨今のHTMLメールによるウイルス被害を受けて、HTMLとJSのダウンロードを厳しくした模様
+*おそらく昨今のHTMLメールによるウイルス被
+害を受けて、HTMLとJSのダウンロードを厳しくした模様
+
+### 【中央のクリスタルクソでかくね？】
+→ソースの「ブラウザ」プロパティで高さを300くらいにして
+<img width="832" alt="Screen Shot 2024-04-09 at 23 16 07" src="https://github.com/Tennori/CrystalCounter/assets/166518378/427fddf0-5cf3-4eb5-8df9-6f5a5d872167">
+
+
+
+
