@@ -21,11 +21,13 @@ index.htmlを選択してください。
 OBSの仕様上、  
 【必ず「対話」ボタンを押して出てくるウィンドウ内で】  
 プラスマイナスの操作してください。  
-![ブラウザ＞対話（操作）](https://github.com/Tennori/CrystalCounter/assets/166518378/f2df922f-429c-48d3-aa82-922778f4620f)
-![ブラウザとの対話](https://github.com/Tennori/CrystalCounter/assets/166518378/b1a9844e-8ef4-47f4-900f-8a550bf84f24)
+---
+*ソースブラウザの対話ボタン*  
+<img src="https://github.com/Tennori/CrystalCounter/assets/166518378/f2df922f-429c-48d3-aa82-922778f4620f" width="50%" >
 
-
-ーーーー  
+---
+*対話ウィンドウ*  
+<img src="https://github.com/Tennori/CrystalCounter/assets/166518378/b1a9844e-8ef4-47f4-900f-8a550bf84f24" width="50%">
 
 ## ■各バージョンの説明
 ### Full
