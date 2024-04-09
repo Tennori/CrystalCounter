@@ -1,4 +1,3 @@
-<img width="832" alt="Screen Shot 2024-04-09 at 23 16 07" src="https://github.com/Tennori/CrystalCounter/assets/166518378/7e568abc-0a91-410f-a4c0-6fa8be3b40c9"># ■概要
 クリコンの配信をするときに  
 カウントをするためだけのHTMLガジェットです。  
 すべてローカルで完結します（外部通信しません）  
